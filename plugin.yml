@@ -1,0 +1,17 @@
+name: CommandBlocks
+main: me.michaelkrauty.CommandBlocks.CommandBlocks
+author: michaelkrauty
+version: 1.0
+commands:
+   commandblocks:
+     description: The infomatic command
+     usage: /infomatic
+   cmdb:
+     description: An alias for commandblocks
+     usage: /cmdb
+   cb:
+     description: An alias for commandblocks
+     usage: /cb
+permissions:
+   commandblocks.use:
+     description: Gives access to all infomatic commands
